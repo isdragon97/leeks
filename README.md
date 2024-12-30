@@ -116,6 +116,8 @@ bug fix from [DAIE](https://github.com/DA1Y1)
   优化代码 , 使用@data注解替换所有getter/setter方法 
   新增卖一/买一手数表头显示 
   优化程序开始初始化表头逻辑 , 新增如果添加/删除固定表头同时修改当前表头 from [RainyQing](https://github.com/RainyQing)
+- v2.7.0
+    更新了虚拟币的查询接口,目前不支持查看涨幅和涨幅百分比
 
 
 
